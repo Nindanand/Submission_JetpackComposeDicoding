@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnimeApp</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_anime">Cari Anime</string>
+    <string name="menu_about">About</string>
+    <string name="name">Kadek Ninda Nandita Putri</string>
+    <string name="email">kadeknindap@gmail.com</string>
+    <string name="universitas">Universitas Gadjah Mada</string>
+    <string name="menu_home">Home</string>
+</resources>
